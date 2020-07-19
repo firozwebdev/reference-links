@@ -1,0 +1,3 @@
+https://www.amitmerchant.com/attach-detach-sync-laravel/
+https://kaloraat.com/articles/laravel-attach-detach-and-sync-methods
+https://eloquentbyexample.com/course/lesson/lesson-11-relationships-ii
